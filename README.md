@@ -1,2 +1,1 @@
-# brianmurunga.github.io
-My personal site: Cybersecurity | ICT Solutions | Projects | Writeups
+A documentation of my journey into Cyber Security through CTFs.
