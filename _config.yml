@@ -1,22 +1,21 @@
 theme: jekyll-theme-chirpy
 lang: en
 timezone: Africa/Nairobi
-title: Hushkat's Blog page
-tagline: Cyber Security Enthusiast | CTF Player
+title: c0mmand3r's Blog page
+tagline: Cyber Security Analyst | Defender
 description: >- 
-  My journey into Cyber Security through CTFs.
-url: "https://hushkat.github.io"
+  My journey into Cyber Security.
 github:
-  username: hushkat
+  username: c0mmand3r
 twitter:
-  username: dr0idbot
+  username: brian_murunga1
 social:
-  name: Samuel Katana
-  email: samykat46@gmail.com # change to your email address
+  name: Brian Murunga
+  email: brianmurungawakhungu@gmail.com # change to your email address
   links:
-    - https://twitter.com/dr0idbot
-    - https://github.com/hushkat
-    - https://www.linkedin.com/in/katanasamuel
+    - https://twitter.com/brian_murunga1
+    - https://github.com/brianmurunga
+    - https://www.linkedin.com/in/brian-murunga-wakhungu
 webmaster_verifications:
   google: # fill in your Google verification code
   bing: # fill in your Bing verification code
@@ -85,12 +84,12 @@ toc: true
 comments:
   provider: giscus
   giscus:
-    repo: hushkat/hushkat.github.io
-    repo_id: R_kgDOPOpbaA
+    repo: brianmurunga/brianmurunga.github.io
+    repo_id: R_kgDOPQ0P5w
     category: General
-    category_id: DIC_kwDOPOpbaM4CtIQZ
+    category_id: DIC_kwDOPQ0P584CtUHS
     mapping: pathname
-    strict: 1
+    strict: 0
     input_position: bottom
     lang: en
     reactions_enabled: 1
