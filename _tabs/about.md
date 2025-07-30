@@ -6,7 +6,7 @@ comments: true
 ---
 
 ## Introduction
-![Dali](/assets/images/welcome-blog/cover.jpg)
+![Dali](/assets/images/Avatar.webp)
 
 This blog will primarily revolve around labs and articles related to cybersecurity.
 
