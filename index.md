@@ -5,7 +5,7 @@ title: Welcome
 
 👋 Hi, I'm **Brian Murunga**
 
-Cybersecurity Enthusiast | CTF Player | Founder of Bmluns Tech Solutions KE
+Cybersecurity 
 
 Explore:
 - [About](/about)
