@@ -89,7 +89,7 @@ comments:
     category: General
     category_id: DIC_kwDOPQ0P584CtUHS
     mapping: pathname
-    strict: 0
+    strict: 1
     input_position: bottom
     lang: en
     reactions_enabled: 1
