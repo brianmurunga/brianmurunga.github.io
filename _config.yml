@@ -3,6 +3,9 @@ lang: en
 timezone: Africa/Nairobi
 title: Brian Murunga
 tagline: Infosec
+logo:
+  text: Brian Murunga
+
 description: >- 
   My journey into Cyber Security.
 github:
