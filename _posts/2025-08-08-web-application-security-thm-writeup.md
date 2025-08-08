@@ -13,7 +13,8 @@ This beginner-friendly room introduces **how websites work** and demonstrates co
 
 A web application is any service that runs in a browser and communicates with a backend server — from social media sites to online banking systems.  
 The only thing you need to access one? **A browser**.
-![Task One](/assets/images/THM/Web/0.png)
+![Task One](<img src="/assets/images/THM/Web/0.png" alt="Task One" style="max-width:100%; height:auto;">
+)
 
 ---
 
