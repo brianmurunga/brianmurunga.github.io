@@ -13,8 +13,8 @@ This beginner-friendly room introduces **how websites work** and demonstrates co
 
 A web application is any service that runs in a browser and communicates with a backend server — from social media sites to online banking systems.  
 The only thing you need to access one? **A browser**.
-![Task One](<img src="/assets/images/THM/Web/0.png" alt="Task One" style="max-width:100%; height:auto;">
-)
+<img src="/assets/images/THM/Web/0.png" alt="Task One" style="max-width:100%; height:auto;">
+
 
 ---
 
@@ -27,7 +27,7 @@ Web apps can suffer from many vulnerabilities. The room links these to OWASP Top
 - **Direct access to restricted resources** → *Broken Access Control*
 
 These weaknesses are often easy to exploit if proper controls are missing.
-![Task Two](/assets/images/THM/Web/00.png)
+<img src="/assets/images/THM/Web/00.png" alt="Task One" style="max-width:100%; height:auto;">
 
 ---
 
@@ -37,12 +37,12 @@ The practical section focuses on **IDOR**, a form of *Broken Access Control*.
 Here’s the typical scenario:
 
 1. The application uses predictable resource IDs in the URL:
-![inventory-management.thm](/assets/images/THM/Web/1.png)
+![inventory-management.thm]<img src="/assets/images/THM/Web/1.png" alt="Task One" style="max-width:100%; height:auto;">
 2. By changing the `id` parameter, you can view another user’s profile:
-![The current user](/assets/images/THM/Web/2.png)
-![When we alter user_id](/assets/images/THM/Web/3.png)
+![The current user]<img src="/assets/images/THM/Web/2.png" alt="Task One" style="max-width:100%; height:auto;">
+![When we alter user_id]<img src="/assets/images/THM/Web/3.png" alt="Task One" style="max-width:100%; height:auto;">
 3. This bypasses access control checks and exposes unauthorized data.
-![The user who made changes](/assets/images/THM/Web/4.png)
+![The user who made changes]<img src="/assets/images/THM/Web/4.png" alt="Task One" style="max-width:100%; height:auto;">
 
 In the lab, I:
 - Found the user who made unauthorized changes
@@ -50,7 +50,7 @@ In the lab, I:
 - Reverted the changes to retrieve the flag
 
 **Flag:**  
-![After reverting the changes we get the flag](/assets/images/THM/Web/5.png)
+![After reverting the changes we get the flag]<img src="/assets/images/THM/Web/5.png" alt="Task One" style="max-width:100%; height:auto;">
 ---
 
 ## Key Takeaways
