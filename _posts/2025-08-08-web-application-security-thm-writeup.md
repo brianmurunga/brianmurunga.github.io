@@ -6,7 +6,7 @@ tags: [tryhackme, web, pentesting, cybersecurity, owasp]
 ---
 
 
-## 🧠 Introduction
+## Introduction
 
 As part of my web penetration testing journey, I explored the **[Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)** room on TryHackMe.  
 This beginner-friendly room introduces **how websites work** and demonstrates common vulnerabilities attackers exploit.
@@ -18,7 +18,7 @@ The only thing you need to access one? **A browser**.
 
 ---
 
-## 🔍 Security Risks in Web Applications
+## Security Risks in Web Applications
 
 Web apps can suffer from many vulnerabilities. The room links these to OWASP Top 10 categories. Some key examples:
 
@@ -31,7 +31,7 @@ These weaknesses are often easy to exploit if proper controls are missing.
 
 ---
 
-## 🧪 Hands-On: IDOR (Insecure Direct Object Reference)
+## Hands-On: IDOR (Insecure Direct Object Reference)
 
 The practical section focuses on **IDOR**, a form of *Broken Access Control*.  
 Here’s the typical scenario:
@@ -62,7 +62,7 @@ In the lab, I:
 
 ---
 
-## 💡 Reflection
+## Reflection
 
 This room was an excellent introduction to web security concepts.  
 It’s clear that **security isn’t just about servers or firewalls — it starts in the application’s logic and design**.  
