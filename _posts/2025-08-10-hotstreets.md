@@ -3,7 +3,7 @@ layout: _posts
 title: Hotstreets
 date: 2025-08-10 
 tags: [web]
-image: /assets/images/H4k-IT/hotstreet1.png
+image: <img src="/assets/images/H4k-IT/WEB/hotstreet1.png" alt="Web" style="max-width:100%; height:auto;">
 categories: [Web]
 ---
 
