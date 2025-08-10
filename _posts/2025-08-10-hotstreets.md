@@ -1,5 +1,5 @@
 ---
-layout: _posts
+layout: post
 title: Hotstreets
 date: 2025-08-10 
 tags: [web]
