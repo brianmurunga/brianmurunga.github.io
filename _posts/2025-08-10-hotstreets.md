@@ -1,11 +1,11 @@
 ---
+layout: _posts
 title: Hotstreets
-date: 2025-08-10 18:09:33 +0300
-comments: true
+date: 2025-08-10 
+tags: [Web]
 description: Cohort 4 h4k-it lab
 image: /assets/images/H4k-IT/hotstreet1.png
 categories: [Web]
-tags: [Web]
 ---
 
 **Description:**  
