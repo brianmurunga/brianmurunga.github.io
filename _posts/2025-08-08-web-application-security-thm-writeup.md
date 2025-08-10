@@ -3,6 +3,7 @@ layout: _posts
 title: "TryHackMe: Web Application Security — Walkthrough"
 date: 2025-08-08
 tags: [tryhackme, web, pentesting, cybersecurity, owasp]
+categories: [Web]
 ---
 
 
