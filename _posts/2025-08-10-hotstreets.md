@@ -2,7 +2,7 @@
 layout: _posts
 title: Hotstreets
 date: 2025-08-10 
-tags: [Web]
+tags: [web]
 image: /assets/images/H4k-IT/hotstreet1.png
 categories: [Web]
 ---
