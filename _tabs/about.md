@@ -7,7 +7,7 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 ## Introduction
-![Dali] (https://pbs.twimg.com/profile_images/1912044595682095104/EcvPTwlB_400x400.jpg)
+![Dali](/assets/img/Avatar.webp)
 
 
 This blog will primarily revolve around labs and articles related to cybersecurity.
