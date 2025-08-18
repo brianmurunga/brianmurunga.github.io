@@ -2,6 +2,7 @@
 title: "TryHackMe: Web Application Security — Walkthrough"
 date: 2025-08-08
 tags: [tryhackme, web, pentesting, cybersecurity, owasp]
+image: https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574741077
 categories: [Web]
 ---
 
