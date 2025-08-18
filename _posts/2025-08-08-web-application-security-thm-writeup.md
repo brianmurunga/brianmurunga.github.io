@@ -5,7 +5,6 @@ tags: [tryhackme, web, pentesting, cybersecurity, owasp]
 categories: [Web]
 ---
 
-
 ## Introduction
 
 As part of my web penetration testing journey, I explored the **[Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)** room on TryHackMe.  
@@ -13,8 +12,8 @@ This beginner-friendly room introduces **how websites work** and demonstrates co
 
 A web application is any service that runs in a browser and communicates with a backend server — from social media sites to online banking systems.  
 The only thing you need to access one? **A browser**.
-<img src="/assets/img/THM/Web/0.png" alt="Task One" style="max-width:100%; height:auto;">
 
+<img src="/assets/img/THM/Web/0.png" alt="Task One" style="max-width:100%; height:auto;">
 
 ---
 
@@ -27,7 +26,8 @@ Web apps can suffer from many vulnerabilities. The room links these to OWASP Top
 - **Direct access to restricted resources** → *Broken Access Control*
 
 These weaknesses are often easy to exploit if proper controls are missing.
-<img src="/assets/img/THM/Web/00.png" alt="Task One" style="max-width:100%; height:auto;">
+
+<img src="/assets/img/THM/Web/00.png" alt="Security Risks" style="max-width:100%; height:auto;">
 
 ---
 
@@ -36,13 +36,15 @@ These weaknesses are often easy to exploit if proper controls are missing.
 The practical section focuses on **IDOR**, a form of *Broken Access Control*.  
 Here’s the typical scenario:
 
-1. The application uses predictable resource IDs in the URL:
-![inventory-management.thm]<img src="/assets/img/THM/Web/1.png" alt="Task One" style="max-width:100%; height:auto;">
-2. By changing the `id` parameter, you can view another user’s profile:
-![The current user]<img src="/assets/img/THM/Web/2.png" alt="Task One" style="max-width:100%; height:auto;">
-![When we alter user_id]<img src="/assets/img/THM/Web/3.png" alt="Task One" style="max-width:100%; height:auto;">
-3. This bypasses access control checks and exposes unauthorized data.
-![The user who made changes]<img src="/assets/img/THM/Web/4.png" alt="Task One" style="max-width:100%; height:auto;">
+1. The application uses predictable resource IDs in the URL:  
+   <img src="/assets/img/THM/Web/1.png" alt="Inventory Management" style="max-width:100%; height:auto;">
+
+2. By changing the `id` parameter, you can view another user’s profile:  
+   <img src="/assets/img/THM/Web/2.png" alt="The current user" style="max-width:100%; height:auto;">  
+   <img src="/assets/img/THM/Web/3.png" alt="When we alter user_id" style="max-width:100%; height:auto;">
+
+3. This bypasses access control checks and exposes unauthorized data:  
+   <img src="/assets/img/THM/Web/4.png" alt="The user who made changes" style="max-width:100%; height:auto;">
 
 In the lab, I:
 - Found the user who made unauthorized changes
@@ -50,7 +52,8 @@ In the lab, I:
 - Reverted the changes to retrieve the flag
 
 **Flag:**  
-![After reverting the changes we get the flag]<img src="/assets/img/THM/Web/5.png" alt="Task One" style="max-width:100%; height:auto;">
+<img src="/assets/img/THM/Web/5.png" alt="Flag after reverting changes" style="max-width:100%; height:auto;">
+
 ---
 
 ## Key Takeaways
