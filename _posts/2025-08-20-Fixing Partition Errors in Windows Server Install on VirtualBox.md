@@ -2,7 +2,7 @@
 title: "Fixing Partition Errors in Windows Server Install on VirtualBox"
 date: 2025-08-20
 tags: [Windows Server, VirtualBox, Troubleshooting, Lab Setup]
-image: <img src="/assets/img/THM/Windows/AD/ad.png" alt="Task One" style="max-width:100%; height:auto;">
+image: /assets/img/THM/Windows/AD/ad.png
 ---
 While setting up **Windows Server 2022 on VirtualBox**, I ran into a common error during the installation:
 > *“There is an error selecting this partition for install. Please select a different partition or refresh selections.”*
