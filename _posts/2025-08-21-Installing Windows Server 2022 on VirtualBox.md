@@ -2,7 +2,7 @@
 title: "Installing Windows Server 2022 on VirtualBox – Step by Step"
 date: 2025-08-21
 tags: [Windows Server, VirtualBox, Lab Setup]
-image: https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png
+image: https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-wht-1536x688.png
 ---
 
 As part of my **learning lab**, I set up **Windows Server 2012** inside **Oracle VirtualBox**. This post documents the **installation process**, which will form the base for my upcoming Active Directory and security testing labs.
