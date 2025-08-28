@@ -90,8 +90,12 @@ With Windows Server 2022 installed, the next milestones are:
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your VirtualBox VM creation, Windows Server setup screens, and final login desktop here for better documentation.)
-
+1. <img src="/assets/img/THM/Windows/AD/AD2.png" alt="Task One" style="max-width:100%; height:auto;">
+2. <img src="/assets/img/THM/Windows/AD/AD3.png" alt="Task One" style="max-width:100%; height:auto;">
+3. <img src="/assets/img/THM/Windows/AD/AD4.png" alt="Task One" style="max-width:100%; height:auto;">
+4. <img src="/assets/img/THM/Windows/AD/AD5.png" alt="Task One" style="max-width:100%; height:auto;">
+5. <img src="/assets/img/THM/Windows/AD/AD6.png" alt="Task One" style="max-width:100%; height:auto;">
+6. <img src="/assets/img/THM/Windows/AD/AD7.png" alt="Task One" style="max-width:100%; height:auto;">
 ---
 
 This post marks the foundation of my **Windows Server Security Lab**, which I’ll expand in upcoming posts on **Active Directory, Security Hardening, and Pentesting**.
