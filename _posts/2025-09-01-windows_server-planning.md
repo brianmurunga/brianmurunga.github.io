@@ -13,7 +13,7 @@ The goal is to design and configure a **centralised IT infrastructure** using **
 ---
 
 ## 🏢 Organisation Setup
-
+ <img src="/assets/img/THM/Windows/AD/dc01.png" alt="Task One" style="max-width:100%; height:auto;">
 - **Employees:** ~70  
 - **Departments:**  
   - ICT (10)  
@@ -64,9 +64,9 @@ The goal is to design and configure a **centralised IT infrastructure** using **
 ## 📂 File & Resource Sharing
 
 Departmental shared folders:  
-- `\\SRV-DC01\Finance` → accessible only to Finance_Users.  
-- `\\SRV-DC01\HR` → accessible only to HR_Users.  
-- `\\SRV-DC01\Public` → read-only for all staff.  
+- `\\BMLUNS-DC01\Finance` → accessible only to Finance_Users.  
+- `\\BMLUNS-DC01\HR` → accessible only to HR_Users.  
+- `\\BMLUNS-DC01\Public` → read-only for all staff.  
 
 Permissions will be configured with **least privilege access**.
 
