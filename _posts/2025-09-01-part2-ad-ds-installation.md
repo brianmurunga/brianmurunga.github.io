@@ -3,7 +3,7 @@ title: "Part 2 – Installing Active Directory Domain Services (AD DS)"
 date: 2025-09-01
 categories: [Windows Server, Active Directory, Lab Setup]
 tags: [AD DS, Windows Server, Domain Controller, Security Analyst Lab]
-image: img src="/assets/img/THM/Windows/AD/AD8.png" alt="Task One" style="max-width:100%; height:auto;"
+image: /assets/img/THM/Windows/AD/AD8.png
 ---
 
 # Part 2 – Installing Active Directory Domain Services (AD DS)
