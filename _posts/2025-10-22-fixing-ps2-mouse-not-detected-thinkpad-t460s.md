@@ -24,8 +24,6 @@ After some digging, I learned that this issue is linked to how the **BIOS initia
 **Firmware:** Lenovo BIOS (UEFI)  
 **Error Message:** `PS/2 Mouse not detected`
 
-<img src="/assets/img/posts/t460s-bios.jpg" alt="Lenovo T460s BIOS Interface" style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-
 ---
 
 ## 🧠 Understanding the Problem
