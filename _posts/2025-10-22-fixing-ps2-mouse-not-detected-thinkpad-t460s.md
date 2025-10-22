@@ -121,4 +121,4 @@ Understanding how BIOS/UEFI handle device setup can save you hours of troublesho
 
 ---
 
-*Authored by [Brian Murunga](https://brianmurunga.github.io)
+*Authored by [Brian Murunga](https://brianmurunga.github.io)*
