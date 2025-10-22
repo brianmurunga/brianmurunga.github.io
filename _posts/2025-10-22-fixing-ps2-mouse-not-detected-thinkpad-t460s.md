@@ -2,7 +2,7 @@
 title: "Fixing the 'PS/2 Mouse Not Detected' Error on a Lenovo ThinkPad T460s"
 date: 2025-10-22
 tags: [ThinkPad, Lenovo, BIOS, UEFI, Hardware, Troubleshooting]
-image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Lenovo_logo_2015.svg
+image: https://news.lenovo.com/wp-content/uploads/2023/05/Lenovo-Logo-scaled.jpg
 ---
 
 ## 🎯 Scenario
