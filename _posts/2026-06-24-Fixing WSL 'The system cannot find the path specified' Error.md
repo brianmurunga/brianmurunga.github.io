@@ -2,7 +2,7 @@
 title: "Fixing WSL 'The system cannot find the path specified' Error"
 date: 2026-06-24
 tags: [Troubleshooting, WSL, Windows]
-image: https://learn.microsoft.com/en-us/windows/wsl/media/wslwindows.png
+image: https://learn.microsoft.com/en-us/windows/wsl/media/store.png
 ---
 
 # Fixing WSL "The system cannot find the path specified" Error
